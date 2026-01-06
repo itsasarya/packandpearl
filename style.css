@@ -97,6 +97,7 @@ section {
 .hero-micro {
     font-size: 13px;
     opacity: .85;
+    margin: var(--space-sm);
 }
 
 .primary-btn {
